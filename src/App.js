@@ -1,6 +1,6 @@
 import { Route } from "react-router-dom";
-import Welcome from "./components/Welcome";
-import Products from "./components/Products";
+import Welcome from "./screens/Welcome";
+import Products from "./screens/Products";
 
 function App() {
 	return (
