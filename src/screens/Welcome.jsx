@@ -1,7 +1,11 @@
 import React from "react";
 
 const Welcome = () => {
-    return<h1>Welcome page</h1>
-}
+	return (
+		<section>
+			<h1>Welcome page</h1>
+		</section>
+	);
+};
 
 export default Welcome;
